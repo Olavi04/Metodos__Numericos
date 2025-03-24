@@ -73,3 +73,84 @@ for i in range(n + 1):
     x = a + i * h
     print(f"{x:.2f}\t{valores_exactos[i]:.5f}\t{valores_aproximados[i]:.5f}\t{errores[i]:.5f}")
 ```
+
+### Ejercicio 2: Redondeo de números flotantes
+Dado un número flotante, redondearlo a diferentes cantidades de cifras decimales.
+
+```python
+# Número flotante original
+numero = 123.456789
+
+# Redondear a 2 cifras decimales
+redondeado_2 = round(numero, 2)
+
+# Redondear a 3 cifras decimales
+redondeado_3 = round(numero, 3)
+
+# Redondear a 4 cifras decimales
+redondeado_4 = round(numero, 4)
+
+print(f"Número original: {numero}")
+print(f"Redondeado a 2 cifras decimales: {redondeado_2}")
+print(f"Redondeado a 3 cifras decimales: {redondeado_3}")
+print(f"Redondeado a 4 cifras decimales: {redondeado_4}")
+```
+
+### Ejercicio 3: Redondeo de elementos en un array
+Dado un array de números flotantes, redondear cada elemento a una cantidad específica de cifras decimales.
+
+```python
+import numpy as np
+
+# Array de números flotantes
+numeros = np.array([1.123456, 2.654321, 3.987654, 4.321098])
+
+# Redondear cada elemento a 3 cifras decimales
+redondeados = np.round(numeros, 3)
+
+print("Array original:")
+print(numeros)
+print("Array redondeado a 3 cifras decimales:")
+print(redondeados)
+```
+
+### Ejercicio 4: Propagación del error de redondeo en una suma
+Analizar la propagación del error de redondeo al sumar una serie de números flotantes.
+
+```python
+# Serie de números flotantes
+numeros = [0.123456, 0.234567, 0.345678, 0.456789, 0.567890]
+
+# Sumar los números sin redondeo
+suma_sin_redondeo = sum(numeros)
+
+# Sumar los números redondeados a 3 cifras decimales
+suma_con_redondeo = sum(round(num, 3) for num in numeros)
+
+print(f"Suma sin redondeo: {suma_sin_redondeo}")
+print(f"Suma con redondeo a 3 cifras decimales: {suma_con_redondeo}")
+```
+
+### Ejercicio 5: Error de redondeo en una multiplicación
+Investigar cómo el error de redondeo afecta el resultado de una multiplicación de números flotantes.
+
+```python
+# Números flotantes a multiplicar
+a = 1.123456
+b = 2.345678
+
+# Multiplicación sin redondeo
+resultado_sin_redondeo = a * b
+
+# Multiplicación con redondeo a 3 cifras decimales
+a_redondeado = round(a, 3)
+b_redondeado = round(b, 3)
+resultado_con_redondeo = a_redondeado * b_redondeado
+
+print(f"Multiplicación sin redondeo: {resultado_sin_redondeo}")
+print(f"Multiplicación con redondeo a 3 cifras decimales: {resultado_con_redondeo}")
+```
+
+
+### Resultados y Análisis
+El código anterior genera una tabla que muestra el valor exacto, el valor aproximado (redondeado a 5 decimales) y el error de redondeo en varios puntos del intervalo [0, 1]. Analizando estos resultados, se puede observar cómo el error de redondeo varía a lo largo del intervalo y entender mejor su comportamiento y magnitud.
