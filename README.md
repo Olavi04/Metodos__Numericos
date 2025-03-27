@@ -13,8 +13,8 @@ En este tema, exploraremos los fundamentos de los métodos numéricos, que son h
 2. [Error de truncamiento](Metodos/Tema_1/Error_truncamiento.md)
 3. [Overflow](Metodos/Tema_1/Overflow.md)
 
-   --------------------------------------
+---------------
 
-   Tema 2: Métodos de solución de ecuaciones
+Tema 2: Métodos de solución de ecuaciones
 
 Los métodos de solución de ecuaciones son técnicas utilizadas para encontrar las raíces o soluciones de ecuaciones algebraicas o trascendentales. En este tema, nos sumergiremos en tres métodos fundamentales: el método de aproximación sucesiva, el método de bisección y el método de interpolación. Estos métodos proporcionan herramientas poderosas para encontrar soluciones aproximadas de ecuaciones en una variedad de contextos matemáticos y científicos.
