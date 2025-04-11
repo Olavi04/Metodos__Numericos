@@ -2,7 +2,6 @@
 ## Definición
 El error de truncamiento es la diferencia entre el valor exacto de una función matemática y su aproximación obtenida al utilizar una serie finita de términos en un método numérico. Este tipo de error se introduce al truncar una serie infinita o al realizar aproximaciones numéricas.
 
-![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema_1/truncamiento.jpeg).
 
 ## Algoritmo
 1. Definir la función f(x) y su aproximación g(x) que introduce el error de truncamiento.
@@ -14,7 +13,6 @@ El error de truncamiento es la diferencia entre el valor exacto de una función 
 7. Analizar cómo varía el error de truncamiento a lo largo del intervalo.
 8. Devolver los valores calculados como análisis del error de truncamiento.
 
-![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema_1/truncamientof.png).
 
 ## Metodología
 
