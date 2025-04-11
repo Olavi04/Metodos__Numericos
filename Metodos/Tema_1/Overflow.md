@@ -2,7 +2,6 @@
 ## Definición
 El overflow (desbordamiento) ocurre cuando un cálculo produce un resultado que es mayor que el valor máximo que puede ser representado con el tipo de datos numérico utilizado en el sistema de cómputo. Esto puede llevar a resultados incorrectos o a la pérdida de información.
 
-![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema_1/overflow.png).
 
 ## Algoritmo
 1. Definir la función f(x) cuyo cálculo puede llevar al overflow.
@@ -13,7 +12,6 @@ El overflow (desbordamiento) ocurre cuando un cálculo produce un resultado que 
 6. Analizar cómo y dónde ocurre el overflow a lo largo del intervalo.
 7. Devolver los valores calculados y las instancias de overflow detectadas.
 
-![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema_1/overflowf.png).
 
 ## Metodología
 
