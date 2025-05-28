@@ -12,7 +12,7 @@ El método de bisección es un método numérico para encontrar raíces de ecuac
 5. Si \( f(a) \cdot f(c) < 0 \), entonces la raíz está en el intervalo \([a, c]\). De lo contrario, la raíz está en \([c, b]\).
 6. Repetir el proceso con el nuevo intervalo hasta que se cumpla el criterio de convergencia.
 
-![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/tema2/biseccionf.jpg)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/tema_2/biseccionf.jpg)
 
 ## Metodología
 
