@@ -2,7 +2,7 @@
 ## Definición
 El método del intervalo es una técnica numérica utilizada para encontrar raíces de una ecuación \( f(x) = 0 \). Se basa en identificar un intervalo \([a, b]\) en el que la función cambia de signo, indicando la presencia de una raíz. Este método es similar al método de bisección, pero puede ser menos específico en cuanto a la técnica de subdivisión del intervalo.
 
-![](https://github.com/Mexta46/Metodos_Numericos_Tema4/blob/main/Imagenes/Imagenes_tema2/intervalo.jpg)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_Tema2/intervalo.jpg)
 
 ## Algoritmo
 1. Definir la función \( f(x) \) y los extremos iniciales del intervalo \([a, b]\) tal que \( f(a) \cdot f(b) < 0 \).
@@ -12,7 +12,7 @@ El método del intervalo es una técnica numérica utilizada para encontrar raí
 5. Si \( f(a) \cdot f(c) < 0 \), entonces la raíz está en el intervalo \([a, c]\). De lo contrario, la raíz está en \([c, b]\).
 6. Repetir el proceso con el nuevo intervalo hasta que se cumpla el criterio de convergencia.
 
-![](https://github.com/Mexta46/Metodos_Numericos_Tema4/blob/main/Imagenes/Imagenes_tema2/intervalof.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_Tema2/intervalof.png)
 
 ## Metodología
 
