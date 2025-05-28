@@ -2,7 +2,7 @@
 ## Definición
 La interpolación es un método numérico utilizado para estimar valores desconocidos de una función a partir de un conjunto de puntos conocidos. Los métodos de interpolación crean una función continua que pasa a través de todos los puntos dados y se utiliza para estimar valores entre estos puntos.
 
-![](https://github.com/Mexta46/Metodos_Numericos_Tema4/blob/main/Imagenes/Imagenes_tema2/interpolacion.jpg)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/tema_2/interpolacion.jpg)
 
 ## Algoritmo
 1. Definir el conjunto de puntos \((x_i, y_i)\) donde \( y_i = f(x_i) \).
@@ -10,7 +10,7 @@ La interpolación es un método numérico utilizado para estimar valores descono
 3. Construir la función de interpolación que pase a través de todos los puntos dados.
 4. Utilizar la función de interpolación para estimar valores en puntos desconocidos.
 
-![](https://github.com/Mexta46/Metodos_Numericos_Tema4/blob/main/Imagenes/Imagenes_tema2/interpolacionf.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/tema_2/interpolacionf.png)
 
 ## Metodología
 
