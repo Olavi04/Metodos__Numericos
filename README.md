@@ -18,3 +18,32 @@ En este tema, exploraremos los fundamentos de los métodos numéricos, que son h
 Tema 2: Métodos de solución de ecuaciones
 
 Los métodos de solución de ecuaciones son técnicas utilizadas para encontrar las raíces o soluciones de ecuaciones algebraicas o trascendentales. En este tema, nos sumergiremos en tres métodos fundamentales: el método de aproximación sucesiva, el método de bisección y el método de interpolación. Estos métodos proporcionan herramientas poderosas para encontrar soluciones aproximadas de ecuaciones en una variedad de contextos matemáticos y científicos.
+
+1. [Metodo de aproximacion sucesiva](Metodos/Tema_2/Metodo_de_aproximacion_sucesiva.md)
+2. [Metodo de biseccion](Metodos/Tema_2/Metodo_de_biseccion.md)
+3. [Metodo de interpolacion](Metodos/Tema_2/Metodo_de_interpolacion.md)
+4. [Metodo de intervalo](Metodos/Tema_2/Metodo_de_intervalo.md)
+
+------------
+
+Tema 3: Métodos de solución de sistemas de ecuaciones
+
+Cuando lidiamos con sistemas de ecuaciones, necesitamos técnicas específicas para encontrar soluciones. En este tema, exploraremos varios métodos, incluido el método de Gauss-Jordan, el método de Gauss-Seidel, el método de Gauss y el método de Jacobi. Estas técnicas nos permiten resolver sistemas de ecuaciones lineales y no lineales, que son fundamentales en numerosas aplicaciones en ingeniería, física, economía y más.
+
+1. [Metodo de Gauss-Jordan](Metodos/Tema_3/Metodo_Gauss-Jordan.md)
+2. [Metodo de Gauss-Seidel](Metodos/Tema_3/Metodo_Gauss-seidel.md)
+3. [Metodo de Gauss](Metodos/Tema_3/Metodo_Gauss.md)
+4. [Metodo de Jacobi](Metodos/Tema_3/Metodo_Jacobi.md)
+
+------------
+
+Tema 4:  Diferenciación e integración numérica
+
+La diferenciación e integración numérica son herramientas esenciales cuando no podemos calcular derivadas o integrales analíticamente. En este tema, examinaremos métodos como la cuadratura, los métodos de Simpson y el método del trapecio. Estos métodos nos permiten aproximar derivadas e integrales de funciones sin la necesidad de conocer expresiones analíticas, lo que los hace valiosos en situaciones donde las funciones son complejas o desconocidas.
+
+1. [Metodo de cuadratura](Metodos/Tema_4/Metodo_Cuadratura.md)
+2. [Metodo de simpson 1/3](Metodos/Tema_4/Metodo_de_simpson_1_3.md)
+3. [Metodo de simpson 3/8](Metodos/Tema_4/Metodo_de_simpson_3_8.md)
+4. [Metodo de trapecio](Metodos/Tema_4/Metodo_de_trapecio.md)
+
+------------
