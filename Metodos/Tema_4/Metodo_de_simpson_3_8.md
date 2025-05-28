@@ -1,6 +1,6 @@
 # Metodo de Simpson 3/8
 
-![](https://raw.githubusercontent.com/Mexta46/Metodos_Numericos_Tema4/main/Imagenes/Imagenes_Tema4/sinso%206.png)
+![](https://raw.githubusercontent.com/Olavi04/Metodos__Numericos/main/Imagenes/Imagenes_Tema4/sinso%206.png)
 
 ## Definicion
 
@@ -8,7 +8,7 @@ El método de Simpson 3/8 es un método numérico para aproximar la integral def
 
 La fórmula del método de Simpson 3/8 es la siguiente:
 
-![](https://raw.githubusercontent.com/Mexta46/Metodos_Numericos_Tema4/main/Imagenes/Imagenes_Tema4/sinso%207.png)
+![](https://raw.githubusercontent.com/Olavi04/Metodos__Numericos/main/Imagenes/Imagenes_Tema4/sinso%207.png)
 
 ## Algoritmo
 
