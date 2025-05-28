@@ -14,7 +14,7 @@ El error de redondeo es la diferencia entre el valor numérico exacto y su aprox
 7. Analizar cómo varía el error de redondeo a lo largo del intervalo.
 8. Devolver los valores calculados como análisis del error de redondeo.
 
-![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/tema_1/error.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/tema_1/errorf.png)
 
 ## Metodología
 
