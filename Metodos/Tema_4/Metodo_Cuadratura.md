@@ -2,14 +2,14 @@
 ## Definición
 El Método de Cuadratura, también conocido como regla de cuadratura, es un método numérico utilizado para aproximar el valor de una integral definida mediante la evaluación de la función en puntos seleccionados dentro del intervalo de integración.
 
-![imagen1](https://github.com/Mexta46/Metodos_Numericos_Tema4/assets/160789479/8145aed4-2e4a-45d9-a5d2-e20dc9f3f3f8)
+![imagen1](https://github.com/Olavi04/Metodos__Numericos/assets/160789479/8145aed4-2e4a-45d9-a5d2-e20dc9f3f3f8)
 
 ## Algoritmo
 1. Seleccionar los puntos de cuadratura y los pesos correspondientes dentro del intervalo de integración.
 2. Evaluar la función en los puntos de cuadratura y ponderar los resultados por los pesos correspondientes.
 3. Sumar los productos obtenidos para obtener la aproximación de la integral.
 
-![imagen2](https://github.com/Mexta46/Metodos_Numericos_Tema4/assets/160789479/7ef3e576-5664-4405-9e82-80bf49f6384b)
+![imagen2](https://github.com/Olavi04/Metodos__Numericos/assets/160789479/7ef3e576-5664-4405-9e82-80bf49f6384b)
 
 ## Metodología
 
