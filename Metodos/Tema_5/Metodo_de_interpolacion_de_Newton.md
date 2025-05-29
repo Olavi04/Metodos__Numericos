@@ -91,7 +91,7 @@ Ejercicio 1 resuelto: se usaran los parametros
 
 **Resultado**
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN1.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN1.png)
 
 ------
 
@@ -105,7 +105,7 @@ Ejercicio 2 resuelto: usando los parametros
 
 **Resultado**
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN2.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN2.png)
 
 -------
 
@@ -125,7 +125,7 @@ Ejercicio 3 resuelto: usando los valores
 
 **Resultado**
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN3.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN3.png)
 
 --------
 
@@ -139,7 +139,7 @@ Ejercicio 4 resuelto: usando los parametros
 
 **Resultado**
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN4.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN4.png)
 
 --------
 
@@ -155,4 +155,4 @@ Ejercicio 5 resuelto: usando los parametros
 
 **Resultado**
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN5.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/9e22efabf9c8dad6b9be0ecdd8d9af81d3d70575/Imagenes/Imagenes_tema5/IN5.png)
