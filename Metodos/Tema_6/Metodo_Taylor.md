@@ -73,22 +73,22 @@ Resuelve la ecuación diferencial \( dy/dx = x^4 - y^2 \) con condiciones inicia
 ### Ejercicio 2:
 Resuelve la ecuación diferencial \( dy/dx = -2xy \) con condiciones iniciales \( x(0)=0, y(0) = 0.5 \) en el intervalo \( 0 < x < 1 \) utilizando el método de Taylor con un tamaño de paso \( h = 0.05 \).
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/main/Imagenes/Imagenes_tema6/IT2.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema6/IT2.png)
 
 ### Ejercicio 3:
 Resuelve la ecuación diferencial \( dy/dx = x^2 + y^2 \) con condiciones iniciales \( x(0)=0, y(0) = 0 \) en el intervalo \( 0 < x < 1 \) utilizando el método de Taylor con un tamaño de paso \( h = 0.1 \).
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/main/Imagenes/Imagenes_tema6/IT3.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema6/IT3.png)
 
 ### Ejercicio 4:
 Resuelve la ecuación diferencial \( dy/dx = y - x \) con condiciones iniciales \( x(0)=0, y(0) = 2 \) en el intervalo \( 0 < x < 1 \) utilizando el método de Taylor con un tamaño de paso \( h = 0.2 \).
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/main/Imagenes/Imagenes_tema6/IT4.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema6/IT4.png)
 
 ### Ejercicio 5:
 Resuelve la ecuación diferencial \( dy/dx = 2y-x \) con condiciones iniciales \( x(0)=0, y(0) = 13 \) en el intervalo \( 0 < x < 1 \) utilizando el método de Taylor con un tamaño de paso \( h = 6 \).
 
-![](https://github.com/Mexta46/Metodos_Numericos/blob/main/Imagenes/Imagenes_tema6/IT5.png)
+![](https://github.com/Olavi04/Metodos__Numericos/blob/main/Imagenes/Imagenes_tema6/IT5.png)
 
 
 ## Análisis y Resultados
