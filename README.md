@@ -47,3 +47,22 @@ La diferenciación e integración numérica son herramientas esenciales cuando n
 4. [Metodo de trapecio](Metodos/Tema_4/Metodo_de_trapecio.md)
 
 ------------
+
+Tema 5: Interpolación y ajuste de funciones
+
+La interpolación y el ajuste de funciones son técnicas para estimar valores intermedios de una función a partir de un conjunto discreto de datos. En este tema, nos enfocaremos en métodos como la interpolación lineal, cuadrática, de Lagrange y de Newton. Estas técnicas son esenciales en la aproximación de funciones desconocidas a partir de datos experimentales o discretos, lo que las hace fundamentales en la modelización y el análisis de datos.
+
+1. [Metodo de interpolacion lineal](Metodos/Tema_5/Metodo_de_interpolacion_lineal.md)
+2. [Metodo de interpolacion cuadratica](Metodos/Tema_5/Metodo_de_interpolacion_cuadratica.md)
+3. [Metodo de interpolacion de lagrange](Metodos/Tema_5/Metodo_de_interpolacion_de_Lagrange.md)
+4. [Metodo de interpolacion de Newton](Metodos/Tema_5/Metodo_de_interpolacion_de_Newton.md)
+
+------------
+
+Tema 6: Solución de ecuaciones diferenciales
+
+Las ecuaciones diferenciales son vitales en la descripción del cambio en sistemas dinámicos. En este tema, exploraremos métodos numéricos para resolver ecuaciones diferenciales, como el método de Euler, el método de Runge-Kutta y el método de Taylor. Estos métodos nos permiten aproximar soluciones numéricas a ecuaciones diferenciales ordinarias, lo que es crucial en una amplia gama de disciplinas científicas y de ingeniería.
+
+1. [Metodo de Euler](Metodos/Tema_6/Metodo_Euler.md)
+2. [Metodo Runge-Kutta](Metodos/Tema_6/Metodo_Runge_Kutta.md)
+3. [Metodo Teylor](Metodos/Tema_6/Metodo_Taylor.md)
